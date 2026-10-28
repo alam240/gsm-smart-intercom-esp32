@@ -72,3 +72,4 @@ void sendCommand(String cmd) {
   sim800.println(cmd);
   delay(1000);
 }
+
